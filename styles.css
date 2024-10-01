@@ -63,3 +63,9 @@ body {
 .botao.operacao:hover {
   background-color: #683232;
 }
+
+@media (max-width: 800px) {
+  .botao {
+    width: 100;
+  }
+}
