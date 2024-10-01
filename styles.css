@@ -64,7 +64,7 @@ body {
   background-color: #683232;
 }
 
-@media (max-width: 800px) {
+@media (max-width: 400px) {
   .botao {
     width: 100;
   }
