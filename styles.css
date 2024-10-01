@@ -70,8 +70,8 @@ body {
   }
 }
 
-@media (max-width: 100px) {
+@media (max-width: 360px) {
   .botao {
-    width: 100;
+    width: 50;
   }
 }
