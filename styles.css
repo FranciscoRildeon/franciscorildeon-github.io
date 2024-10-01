@@ -73,7 +73,7 @@ body {
 
 @media (max-width: 360px) {
   .botao {
-    width: 50;
-    height: 30;
+    width: 250;
+    height: 508;
   }
 }
